@@ -1,0 +1,2802 @@
+[
+    {
+        "task_id": 1,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 10,
+        "up_data_size": 9,
+        "duration_time": 1,
+        "done_time": 0
+    },
+    {
+        "task_id": 2,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 4,
+        "up_data_size": 17,
+        "duration_time": 3,
+        "done_time": 0
+    },
+    {
+        "task_id": 3,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 5,
+        "up_data_size": 13,
+        "duration_time": 1,
+        "done_time": 0
+    },
+    {
+        "task_id": 4,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 7,
+        "up_data_size": 6,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 5,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 6,
+        "up_data_size": 8,
+        "duration_time": 1,
+        "done_time": 0
+    },
+    {
+        "task_id": 6,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 3,
+        "up_data_size": 7,
+        "duration_time": 1,
+        "done_time": 0
+    },
+    {
+        "task_id": 7,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 7,
+        "up_data_size": 18,
+        "duration_time": 1,
+        "done_time": 0
+    },
+    {
+        "task_id": 8,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 4,
+        "up_data_size": 6,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 9,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 2,
+        "up_data_size": 10,
+        "duration_time": 1,
+        "done_time": 0
+    },
+    {
+        "task_id": 10,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 8,
+        "up_data_size": 11,
+        "duration_time": 1,
+        "done_time": 0
+    },
+    {
+        "task_id": 11,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 10,
+        "up_data_size": 8,
+        "duration_time": 3,
+        "done_time": 0
+    },
+    {
+        "task_id": 12,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 1,
+        "up_data_size": 7,
+        "duration_time": 1,
+        "done_time": 0
+    },
+    {
+        "task_id": 13,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 6,
+        "up_data_size": 14,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 14,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 9,
+        "up_data_size": 4,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 15,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 3,
+        "up_data_size": 13,
+        "duration_time": 3,
+        "done_time": 0
+    },
+    {
+        "task_id": 16,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 5,
+        "up_data_size": 10,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 17,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 1,
+        "up_data_size": 20,
+        "duration_time": 1,
+        "done_time": 0
+    },
+    {
+        "task_id": 18,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 7,
+        "up_data_size": 16,
+        "duration_time": 1,
+        "done_time": 0
+    },
+    {
+        "task_id": 19,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 10,
+        "up_data_size": 14,
+        "duration_time": 1,
+        "done_time": 0
+    },
+    {
+        "task_id": 20,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 2,
+        "up_data_size": 3,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 21,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 9,
+        "up_data_size": 14,
+        "duration_time": 3,
+        "done_time": 0
+    },
+    {
+        "task_id": 22,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 8,
+        "up_data_size": 18,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 23,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 6,
+        "up_data_size": 5,
+        "duration_time": 3,
+        "done_time": 0
+    },
+    {
+        "task_id": 24,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 3,
+        "up_data_size": 16,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 25,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 6,
+        "up_data_size": 10,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 26,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 10,
+        "up_data_size": 8,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 27,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 8,
+        "up_data_size": 16,
+        "duration_time": 1,
+        "done_time": 0
+    },
+    {
+        "task_id": 28,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 6,
+        "up_data_size": 17,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 29,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 10,
+        "up_data_size": 8,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 30,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 1,
+        "up_data_size": 3,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 31,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 6,
+        "up_data_size": 17,
+        "duration_time": 1,
+        "done_time": 0
+    },
+    {
+        "task_id": 32,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 1,
+        "up_data_size": 4,
+        "duration_time": 3,
+        "done_time": 0
+    },
+    {
+        "task_id": 33,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 9,
+        "up_data_size": 4,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 34,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 10,
+        "up_data_size": 8,
+        "duration_time": 1,
+        "done_time": 0
+    },
+    {
+        "task_id": 35,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 10,
+        "up_data_size": 14,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 36,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 2,
+        "up_data_size": 11,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 37,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 10,
+        "up_data_size": 7,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 38,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 8,
+        "up_data_size": 10,
+        "duration_time": 1,
+        "done_time": 0
+    },
+    {
+        "task_id": 39,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 8,
+        "up_data_size": 9,
+        "duration_time": 1,
+        "done_time": 0
+    },
+    {
+        "task_id": 40,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 6,
+        "up_data_size": 18,
+        "duration_time": 1,
+        "done_time": 0
+    },
+    {
+        "task_id": 41,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 1,
+        "up_data_size": 5,
+        "duration_time": 3,
+        "done_time": 0
+    },
+    {
+        "task_id": 42,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 9,
+        "up_data_size": 7,
+        "duration_time": 1,
+        "done_time": 0
+    },
+    {
+        "task_id": 43,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 7,
+        "up_data_size": 17,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 44,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 8,
+        "up_data_size": 9,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 45,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 8,
+        "up_data_size": 3,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 46,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 8,
+        "up_data_size": 3,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 47,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 1,
+        "up_data_size": 16,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 48,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 5,
+        "up_data_size": 6,
+        "duration_time": 3,
+        "done_time": 0
+    },
+    {
+        "task_id": 49,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 10,
+        "up_data_size": 6,
+        "duration_time": 3,
+        "done_time": 0
+    },
+    {
+        "task_id": 50,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 3,
+        "up_data_size": 17,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 51,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 9,
+        "up_data_size": 5,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 52,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 10,
+        "up_data_size": 7,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 53,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 9,
+        "up_data_size": 4,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 54,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 3,
+        "up_data_size": 9,
+        "duration_time": 3,
+        "done_time": 0
+    },
+    {
+        "task_id": 55,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 4,
+        "up_data_size": 10,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 56,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 4,
+        "up_data_size": 12,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 57,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 9,
+        "up_data_size": 8,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 58,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 2,
+        "up_data_size": 4,
+        "duration_time": 3,
+        "done_time": 0
+    },
+    {
+        "task_id": 59,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 2,
+        "up_data_size": 17,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 60,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 8,
+        "up_data_size": 7,
+        "duration_time": 1,
+        "done_time": 0
+    },
+    {
+        "task_id": 61,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 7,
+        "up_data_size": 4,
+        "duration_time": 1,
+        "done_time": 0
+    },
+    {
+        "task_id": 62,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 3,
+        "up_data_size": 18,
+        "duration_time": 1,
+        "done_time": 0
+    },
+    {
+        "task_id": 63,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 4,
+        "up_data_size": 12,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 64,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 10,
+        "up_data_size": 13,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 65,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 8,
+        "up_data_size": 3,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 66,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 8,
+        "up_data_size": 10,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 67,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 3,
+        "up_data_size": 12,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 68,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 7,
+        "up_data_size": 9,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 69,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 7,
+        "up_data_size": 10,
+        "duration_time": 3,
+        "done_time": 0
+    },
+    {
+        "task_id": 70,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 10,
+        "up_data_size": 17,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 71,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 10,
+        "up_data_size": 16,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 72,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 9,
+        "up_data_size": 6,
+        "duration_time": 1,
+        "done_time": 0
+    },
+    {
+        "task_id": 73,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 7,
+        "up_data_size": 5,
+        "duration_time": 1,
+        "done_time": 0
+    },
+    {
+        "task_id": 74,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 4,
+        "up_data_size": 9,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 75,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 5,
+        "up_data_size": 9,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 76,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 1,
+        "up_data_size": 14,
+        "duration_time": 1,
+        "done_time": 0
+    },
+    {
+        "task_id": 77,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 3,
+        "up_data_size": 6,
+        "duration_time": 1,
+        "done_time": 0
+    },
+    {
+        "task_id": 78,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 9,
+        "up_data_size": 11,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 79,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 9,
+        "up_data_size": 6,
+        "duration_time": 3,
+        "done_time": 0
+    },
+    {
+        "task_id": 80,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 2,
+        "up_data_size": 6,
+        "duration_time": 1,
+        "done_time": 0
+    },
+    {
+        "task_id": 81,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 2,
+        "up_data_size": 16,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 82,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 1,
+        "up_data_size": 17,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 83,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 4,
+        "up_data_size": 8,
+        "duration_time": 1,
+        "done_time": 0
+    },
+    {
+        "task_id": 84,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 4,
+        "up_data_size": 14,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 85,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 1,
+        "up_data_size": 22,
+        "duration_time": 3,
+        "done_time": 0
+    },
+    {
+        "task_id": 86,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 6,
+        "up_data_size": 9,
+        "duration_time": 1,
+        "done_time": 0
+    },
+    {
+        "task_id": 87,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 2,
+        "up_data_size": 13,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 88,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 3,
+        "up_data_size": 4,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 89,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 6,
+        "up_data_size": 21,
+        "duration_time": 1,
+        "done_time": 0
+    },
+    {
+        "task_id": 90,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 5,
+        "up_data_size": 9,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 91,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 6,
+        "up_data_size": 6,
+        "duration_time": 1,
+        "done_time": 0
+    },
+    {
+        "task_id": 92,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 4,
+        "up_data_size": 9,
+        "duration_time": 3,
+        "done_time": 0
+    },
+    {
+        "task_id": 93,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 2,
+        "up_data_size": 12,
+        "duration_time": 3,
+        "done_time": 0
+    },
+    {
+        "task_id": 94,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 2,
+        "up_data_size": 7,
+        "duration_time": 3,
+        "done_time": 0
+    },
+    {
+        "task_id": 95,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 4,
+        "up_data_size": 11,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 96,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 6,
+        "up_data_size": 9,
+        "duration_time": 1,
+        "done_time": 0
+    },
+    {
+        "task_id": 97,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 8,
+        "up_data_size": 3,
+        "duration_time": 1,
+        "done_time": 0
+    },
+    {
+        "task_id": 98,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 5,
+        "up_data_size": 9,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 99,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 9,
+        "up_data_size": 5,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 100,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 1,
+        "up_data_size": 7,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 101,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 2,
+        "up_data_size": 8,
+        "duration_time": 3,
+        "done_time": 0
+    },
+    {
+        "task_id": 102,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 6,
+        "up_data_size": 12,
+        "duration_time": 3,
+        "done_time": 0
+    },
+    {
+        "task_id": 103,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 9,
+        "up_data_size": 7,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 104,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 8,
+        "up_data_size": 12,
+        "duration_time": 1,
+        "done_time": 0
+    },
+    {
+        "task_id": 105,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 1,
+        "up_data_size": 10,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 106,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 7,
+        "up_data_size": 20,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 107,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 7,
+        "up_data_size": 15,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 108,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 1,
+        "up_data_size": 11,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 109,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 1,
+        "up_data_size": 5,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 110,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 4,
+        "up_data_size": 13,
+        "duration_time": 3,
+        "done_time": 0
+    },
+    {
+        "task_id": 111,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 1,
+        "up_data_size": 12,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 112,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 4,
+        "up_data_size": 16,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 113,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 10,
+        "up_data_size": 10,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 114,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 3,
+        "up_data_size": 10,
+        "duration_time": 3,
+        "done_time": 0
+    },
+    {
+        "task_id": 115,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 8,
+        "up_data_size": 21,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 116,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 5,
+        "up_data_size": 12,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 117,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 8,
+        "up_data_size": 13,
+        "duration_time": 1,
+        "done_time": 0
+    },
+    {
+        "task_id": 118,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 7,
+        "up_data_size": 10,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 119,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 4,
+        "up_data_size": 3,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 120,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 4,
+        "up_data_size": 19,
+        "duration_time": 1,
+        "done_time": 0
+    },
+    {
+        "task_id": 121,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 2,
+        "up_data_size": 5,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 122,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 3,
+        "up_data_size": 14,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 123,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 9,
+        "up_data_size": 7,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 124,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 1,
+        "up_data_size": 10,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 125,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 4,
+        "up_data_size": 20,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 126,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 3,
+        "up_data_size": 10,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 127,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 4,
+        "up_data_size": 12,
+        "duration_time": 3,
+        "done_time": 0
+    },
+    {
+        "task_id": 128,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 5,
+        "up_data_size": 10,
+        "duration_time": 3,
+        "done_time": 0
+    },
+    {
+        "task_id": 129,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 9,
+        "up_data_size": 8,
+        "duration_time": 1,
+        "done_time": 0
+    },
+    {
+        "task_id": 130,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 10,
+        "up_data_size": 17,
+        "duration_time": 1,
+        "done_time": 0
+    },
+    {
+        "task_id": 131,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 2,
+        "up_data_size": 9,
+        "duration_time": 1,
+        "done_time": 0
+    },
+    {
+        "task_id": 132,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 2,
+        "up_data_size": 15,
+        "duration_time": 1,
+        "done_time": 0
+    },
+    {
+        "task_id": 133,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 6,
+        "up_data_size": 7,
+        "duration_time": 1,
+        "done_time": 0
+    },
+    {
+        "task_id": 134,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 3,
+        "up_data_size": 6,
+        "duration_time": 1,
+        "done_time": 0
+    },
+    {
+        "task_id": 135,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 5,
+        "up_data_size": 11,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 136,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 8,
+        "up_data_size": 22,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 137,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 5,
+        "up_data_size": 12,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 138,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 4,
+        "up_data_size": 4,
+        "duration_time": 3,
+        "done_time": 0
+    },
+    {
+        "task_id": 139,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 3,
+        "up_data_size": 18,
+        "duration_time": 3,
+        "done_time": 0
+    },
+    {
+        "task_id": 140,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 4,
+        "up_data_size": 12,
+        "duration_time": 3,
+        "done_time": 0
+    },
+    {
+        "task_id": 141,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 5,
+        "up_data_size": 13,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 142,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 6,
+        "up_data_size": 13,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 143,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 10,
+        "up_data_size": 11,
+        "duration_time": 3,
+        "done_time": 0
+    },
+    {
+        "task_id": 144,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 4,
+        "up_data_size": 9,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 145,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 9,
+        "up_data_size": 12,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 146,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 4,
+        "up_data_size": 11,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 147,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 4,
+        "up_data_size": 3,
+        "duration_time": 1,
+        "done_time": 0
+    },
+    {
+        "task_id": 148,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 4,
+        "up_data_size": 11,
+        "duration_time": 3,
+        "done_time": 0
+    },
+    {
+        "task_id": 149,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 3,
+        "up_data_size": 5,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 150,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 10,
+        "up_data_size": 13,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 151,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 2,
+        "up_data_size": 7,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 152,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 10,
+        "up_data_size": 13,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 153,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 10,
+        "up_data_size": 13,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 154,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 5,
+        "up_data_size": 18,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 155,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 2,
+        "up_data_size": 9,
+        "duration_time": 1,
+        "done_time": 0
+    },
+    {
+        "task_id": 156,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 7,
+        "up_data_size": 12,
+        "duration_time": 1,
+        "done_time": 0
+    },
+    {
+        "task_id": 157,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 1,
+        "up_data_size": 9,
+        "duration_time": 3,
+        "done_time": 0
+    },
+    {
+        "task_id": 158,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 6,
+        "up_data_size": 12,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 159,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 10,
+        "up_data_size": 8,
+        "duration_time": 3,
+        "done_time": 0
+    },
+    {
+        "task_id": 160,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 3,
+        "up_data_size": 9,
+        "duration_time": 3,
+        "done_time": 0
+    },
+    {
+        "task_id": 161,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 9,
+        "up_data_size": 11,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 162,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 1,
+        "up_data_size": 8,
+        "duration_time": 3,
+        "done_time": 0
+    },
+    {
+        "task_id": 163,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 1,
+        "up_data_size": 18,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 164,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 4,
+        "up_data_size": 11,
+        "duration_time": 3,
+        "done_time": 0
+    },
+    {
+        "task_id": 165,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 5,
+        "up_data_size": 7,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 166,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 4,
+        "up_data_size": 10,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 167,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 10,
+        "up_data_size": 19,
+        "duration_time": 3,
+        "done_time": 0
+    },
+    {
+        "task_id": 168,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 9,
+        "up_data_size": 12,
+        "duration_time": 1,
+        "done_time": 0
+    },
+    {
+        "task_id": 169,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 3,
+        "up_data_size": 5,
+        "duration_time": 3,
+        "done_time": 0
+    },
+    {
+        "task_id": 170,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 2,
+        "up_data_size": 6,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 171,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 6,
+        "up_data_size": 9,
+        "duration_time": 1,
+        "done_time": 0
+    },
+    {
+        "task_id": 172,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 7,
+        "up_data_size": 13,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 173,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 5,
+        "up_data_size": 13,
+        "duration_time": 3,
+        "done_time": 0
+    },
+    {
+        "task_id": 174,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 5,
+        "up_data_size": 10,
+        "duration_time": 1,
+        "done_time": 0
+    },
+    {
+        "task_id": 175,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 5,
+        "up_data_size": 9,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 176,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 1,
+        "up_data_size": 13,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 177,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 6,
+        "up_data_size": 9,
+        "duration_time": 1,
+        "done_time": 0
+    },
+    {
+        "task_id": 178,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 4,
+        "up_data_size": 10,
+        "duration_time": 1,
+        "done_time": 0
+    },
+    {
+        "task_id": 179,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 10,
+        "up_data_size": 6,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 180,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 9,
+        "up_data_size": 11,
+        "duration_time": 3,
+        "done_time": 0
+    },
+    {
+        "task_id": 181,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 9,
+        "up_data_size": 9,
+        "duration_time": 3,
+        "done_time": 0
+    },
+    {
+        "task_id": 182,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 3,
+        "up_data_size": 11,
+        "duration_time": 1,
+        "done_time": 0
+    },
+    {
+        "task_id": 183,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 10,
+        "up_data_size": 6,
+        "duration_time": 1,
+        "done_time": 0
+    },
+    {
+        "task_id": 184,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 9,
+        "up_data_size": 7,
+        "duration_time": 3,
+        "done_time": 0
+    },
+    {
+        "task_id": 185,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 9,
+        "up_data_size": 16,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 186,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 4,
+        "up_data_size": 18,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 187,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 5,
+        "up_data_size": 17,
+        "duration_time": 1,
+        "done_time": 0
+    },
+    {
+        "task_id": 188,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 7,
+        "up_data_size": 7,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 189,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 8,
+        "up_data_size": 7,
+        "duration_time": 3,
+        "done_time": 0
+    },
+    {
+        "task_id": 190,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 9,
+        "up_data_size": 12,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 191,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 9,
+        "up_data_size": 8,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 192,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 6,
+        "up_data_size": 8,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 193,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 4,
+        "up_data_size": 9,
+        "duration_time": 3,
+        "done_time": 0
+    },
+    {
+        "task_id": 194,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 2,
+        "up_data_size": 12,
+        "duration_time": 1,
+        "done_time": 0
+    },
+    {
+        "task_id": 195,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 3,
+        "up_data_size": 10,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 196,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 2,
+        "up_data_size": 5,
+        "duration_time": 3,
+        "done_time": 0
+    },
+    {
+        "task_id": 197,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 3,
+        "up_data_size": 13,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 198,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 6,
+        "up_data_size": 8,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 199,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 3,
+        "up_data_size": 6,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 200,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 6,
+        "up_data_size": 7,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 201,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 7,
+        "up_data_size": 8,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 202,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 10,
+        "up_data_size": 6,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 203,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 2,
+        "up_data_size": 16,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 204,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 7,
+        "up_data_size": 13,
+        "duration_time": 3,
+        "done_time": 0
+    },
+    {
+        "task_id": 205,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 8,
+        "up_data_size": 11,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 206,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 7,
+        "up_data_size": 6,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 207,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 2,
+        "up_data_size": 15,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 208,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 6,
+        "up_data_size": 12,
+        "duration_time": 1,
+        "done_time": 0
+    },
+    {
+        "task_id": 209,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 4,
+        "up_data_size": 10,
+        "duration_time": 3,
+        "done_time": 0
+    },
+    {
+        "task_id": 210,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 5,
+        "up_data_size": 11,
+        "duration_time": 3,
+        "done_time": 0
+    },
+    {
+        "task_id": 211,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 4,
+        "up_data_size": 14,
+        "duration_time": 3,
+        "done_time": 0
+    },
+    {
+        "task_id": 212,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 2,
+        "up_data_size": 9,
+        "duration_time": 1,
+        "done_time": 0
+    },
+    {
+        "task_id": 213,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 6,
+        "up_data_size": 8,
+        "duration_time": 3,
+        "done_time": 0
+    },
+    {
+        "task_id": 214,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 2,
+        "up_data_size": 9,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 215,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 9,
+        "up_data_size": 12,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 216,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 3,
+        "up_data_size": 12,
+        "duration_time": 1,
+        "done_time": 0
+    },
+    {
+        "task_id": 217,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 5,
+        "up_data_size": 13,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 218,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 6,
+        "up_data_size": 18,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 219,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 9,
+        "up_data_size": 19,
+        "duration_time": 3,
+        "done_time": 0
+    },
+    {
+        "task_id": 220,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 6,
+        "up_data_size": 11,
+        "duration_time": 3,
+        "done_time": 0
+    },
+    {
+        "task_id": 221,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 9,
+        "up_data_size": 11,
+        "duration_time": 1,
+        "done_time": 0
+    },
+    {
+        "task_id": 222,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 3,
+        "up_data_size": 8,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 223,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 4,
+        "up_data_size": 19,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 224,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 4,
+        "up_data_size": 5,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 225,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 4,
+        "up_data_size": 18,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 226,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 9,
+        "up_data_size": 3,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 227,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 1,
+        "up_data_size": 7,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 228,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 6,
+        "up_data_size": 2,
+        "duration_time": 3,
+        "done_time": 0
+    },
+    {
+        "task_id": 229,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 1,
+        "up_data_size": 11,
+        "duration_time": 3,
+        "done_time": 0
+    },
+    {
+        "task_id": 230,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 1,
+        "up_data_size": 5,
+        "duration_time": 3,
+        "done_time": 0
+    },
+    {
+        "task_id": 231,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 9,
+        "up_data_size": 14,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 232,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 1,
+        "up_data_size": 7,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 233,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 7,
+        "up_data_size": 5,
+        "duration_time": 3,
+        "done_time": 0
+    },
+    {
+        "task_id": 234,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 10,
+        "up_data_size": 8,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 235,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 1,
+        "up_data_size": 16,
+        "duration_time": 3,
+        "done_time": 0
+    },
+    {
+        "task_id": 236,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 2,
+        "up_data_size": 7,
+        "duration_time": 3,
+        "done_time": 0
+    },
+    {
+        "task_id": 237,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 6,
+        "up_data_size": 4,
+        "duration_time": 1,
+        "done_time": 0
+    },
+    {
+        "task_id": 238,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 6,
+        "up_data_size": 18,
+        "duration_time": 3,
+        "done_time": 0
+    },
+    {
+        "task_id": 239,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 2,
+        "up_data_size": 14,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 240,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 8,
+        "up_data_size": 16,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 241,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 2,
+        "up_data_size": 2,
+        "duration_time": 3,
+        "done_time": 0
+    },
+    {
+        "task_id": 242,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 1,
+        "up_data_size": 15,
+        "duration_time": 1,
+        "done_time": 0
+    },
+    {
+        "task_id": 243,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 7,
+        "up_data_size": 8,
+        "duration_time": 1,
+        "done_time": 0
+    },
+    {
+        "task_id": 244,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 7,
+        "up_data_size": 10,
+        "duration_time": 1,
+        "done_time": 0
+    },
+    {
+        "task_id": 245,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 8,
+        "up_data_size": 17,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 246,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 9,
+        "up_data_size": 18,
+        "duration_time": 1,
+        "done_time": 0
+    },
+    {
+        "task_id": 247,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 10,
+        "up_data_size": 3,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 248,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 3,
+        "up_data_size": 6,
+        "duration_time": 1,
+        "done_time": 0
+    },
+    {
+        "task_id": 249,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 3,
+        "up_data_size": 17,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 250,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 9,
+        "up_data_size": 8,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 251,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 1,
+        "up_data_size": 11,
+        "duration_time": 3,
+        "done_time": 0
+    },
+    {
+        "task_id": 252,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 8,
+        "up_data_size": 15,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 253,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 9,
+        "up_data_size": 7,
+        "duration_time": 3,
+        "done_time": 0
+    },
+    {
+        "task_id": 254,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 2,
+        "up_data_size": 3,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 255,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 8,
+        "up_data_size": 6,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 256,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 5,
+        "up_data_size": 3,
+        "duration_time": 1,
+        "done_time": 0
+    },
+    {
+        "task_id": 257,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 1,
+        "up_data_size": 12,
+        "duration_time": 3,
+        "done_time": 0
+    },
+    {
+        "task_id": 258,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 7,
+        "up_data_size": 14,
+        "duration_time": 3,
+        "done_time": 0
+    },
+    {
+        "task_id": 259,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 6,
+        "up_data_size": 10,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 260,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 9,
+        "up_data_size": 10,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 261,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 8,
+        "up_data_size": 13,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 262,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 5,
+        "up_data_size": 14,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 263,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 6,
+        "up_data_size": 10,
+        "duration_time": 1,
+        "done_time": 0
+    },
+    {
+        "task_id": 264,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 4,
+        "up_data_size": 15,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 265,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 7,
+        "up_data_size": 5,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 266,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 7,
+        "up_data_size": 6,
+        "duration_time": 1,
+        "done_time": 0
+    },
+    {
+        "task_id": 267,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 8,
+        "up_data_size": 14,
+        "duration_time": 3,
+        "done_time": 0
+    },
+    {
+        "task_id": 268,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 1,
+        "up_data_size": 10,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 269,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 5,
+        "up_data_size": 8,
+        "duration_time": 1,
+        "done_time": 0
+    },
+    {
+        "task_id": 270,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 5,
+        "up_data_size": 21,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 271,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 2,
+        "up_data_size": 9,
+        "duration_time": 3,
+        "done_time": 0
+    },
+    {
+        "task_id": 272,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 8,
+        "up_data_size": 8,
+        "duration_time": 3,
+        "done_time": 0
+    },
+    {
+        "task_id": 273,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 6,
+        "up_data_size": 14,
+        "duration_time": 1,
+        "done_time": 0
+    },
+    {
+        "task_id": 274,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 1,
+        "up_data_size": 19,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 275,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 7,
+        "up_data_size": 9,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 276,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 7,
+        "up_data_size": 4,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 277,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 6,
+        "up_data_size": 14,
+        "duration_time": 1,
+        "done_time": 0
+    },
+    {
+        "task_id": 278,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 10,
+        "up_data_size": 4,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 279,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 5,
+        "up_data_size": 3,
+        "duration_time": 1,
+        "done_time": 0
+    },
+    {
+        "task_id": 280,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 3,
+        "up_data_size": 9,
+        "duration_time": 1,
+        "done_time": 0
+    },
+    {
+        "task_id": 281,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 4,
+        "up_data_size": 15,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 282,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 6,
+        "up_data_size": 16,
+        "duration_time": 1,
+        "done_time": 0
+    },
+    {
+        "task_id": 283,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 9,
+        "up_data_size": 3,
+        "duration_time": 3,
+        "done_time": 0
+    },
+    {
+        "task_id": 284,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 6,
+        "up_data_size": 14,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 285,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 1,
+        "up_data_size": 6,
+        "duration_time": 3,
+        "done_time": 0
+    },
+    {
+        "task_id": 286,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 10,
+        "up_data_size": 10,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 287,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 6,
+        "up_data_size": 5,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 288,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 2,
+        "up_data_size": 17,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 289,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 9,
+        "up_data_size": 10,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 290,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 2,
+        "up_data_size": 9,
+        "duration_time": 3,
+        "done_time": 0
+    },
+    {
+        "task_id": 291,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 2,
+        "up_data_size": 14,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 292,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 4,
+        "up_data_size": 10,
+        "duration_time": 3,
+        "done_time": 0
+    },
+    {
+        "task_id": 293,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 5,
+        "up_data_size": 16,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 294,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 8,
+        "up_data_size": 8,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 295,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 3,
+        "up_data_size": 7,
+        "duration_time": 1,
+        "done_time": 0
+    },
+    {
+        "task_id": 296,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 8,
+        "up_data_size": 4,
+        "duration_time": 1,
+        "done_time": 0
+    },
+    {
+        "task_id": 297,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 5,
+        "up_data_size": 9,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 298,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 2,
+        "up_data_size": 8,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 299,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 6,
+        "up_data_size": 6,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 300,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 10,
+        "up_data_size": 9,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 301,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 6,
+        "up_data_size": 8,
+        "duration_time": 1,
+        "done_time": 0
+    },
+    {
+        "task_id": 302,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 7,
+        "up_data_size": 8,
+        "duration_time": 1,
+        "done_time": 0
+    },
+    {
+        "task_id": 303,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 4,
+        "up_data_size": 9,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 304,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 1,
+        "up_data_size": 19,
+        "duration_time": 3,
+        "done_time": 0
+    },
+    {
+        "task_id": 305,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 3,
+        "up_data_size": 11,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 306,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 9,
+        "up_data_size": 11,
+        "duration_time": 3,
+        "done_time": 0
+    },
+    {
+        "task_id": 307,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 2,
+        "up_data_size": 11,
+        "duration_time": 3,
+        "done_time": 0
+    },
+    {
+        "task_id": 308,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 8,
+        "up_data_size": 19,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 309,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 5,
+        "up_data_size": 6,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 310,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 9,
+        "up_data_size": 10,
+        "duration_time": 3,
+        "done_time": 0
+    },
+    {
+        "task_id": 311,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 5,
+        "up_data_size": 15,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 312,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 7,
+        "up_data_size": 14,
+        "duration_time": 3,
+        "done_time": 0
+    },
+    {
+        "task_id": 313,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 7,
+        "up_data_size": 6,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 314,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 8,
+        "up_data_size": 10,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 315,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 3,
+        "up_data_size": 15,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 316,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 8,
+        "up_data_size": 16,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 317,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 1,
+        "up_data_size": 5,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 318,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 7,
+        "up_data_size": 16,
+        "duration_time": 1,
+        "done_time": 0
+    },
+    {
+        "task_id": 319,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 10,
+        "up_data_size": 7,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 320,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 3,
+        "up_data_size": 10,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 321,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 9,
+        "up_data_size": 15,
+        "duration_time": 1,
+        "done_time": 0
+    },
+    {
+        "task_id": 322,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 2,
+        "up_data_size": 15,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 323,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 5,
+        "up_data_size": 11,
+        "duration_time": 1,
+        "done_time": 0
+    },
+    {
+        "task_id": 324,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 4,
+        "up_data_size": 9,
+        "duration_time": 1,
+        "done_time": 0
+    },
+    {
+        "task_id": 325,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 1,
+        "up_data_size": 13,
+        "duration_time": 3,
+        "done_time": 0
+    },
+    {
+        "task_id": 326,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 10,
+        "up_data_size": 23,
+        "duration_time": 3,
+        "done_time": 0
+    },
+    {
+        "task_id": 327,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 5,
+        "up_data_size": 9,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 328,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 3,
+        "up_data_size": 6,
+        "duration_time": 1,
+        "done_time": 0
+    },
+    {
+        "task_id": 329,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 3,
+        "up_data_size": 12,
+        "duration_time": 1,
+        "done_time": 0
+    },
+    {
+        "task_id": 330,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 10,
+        "up_data_size": 12,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 331,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 5,
+        "up_data_size": 3,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 332,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 3,
+        "up_data_size": 6,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 333,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 9,
+        "up_data_size": 9,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 334,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 9,
+        "up_data_size": 9,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 335,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 3,
+        "up_data_size": 12,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 336,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 2,
+        "up_data_size": 5,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 337,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 2,
+        "up_data_size": 19,
+        "duration_time": 1,
+        "done_time": 0
+    },
+    {
+        "task_id": 338,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 8,
+        "up_data_size": 8,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 339,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 8,
+        "up_data_size": 11,
+        "duration_time": 3,
+        "done_time": 0
+    },
+    {
+        "task_id": 340,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 5,
+        "up_data_size": 19,
+        "duration_time": 3,
+        "done_time": 0
+    },
+    {
+        "task_id": 341,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 2,
+        "up_data_size": 5,
+        "duration_time": 1,
+        "done_time": 0
+    },
+    {
+        "task_id": 342,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 6,
+        "up_data_size": 18,
+        "duration_time": 3,
+        "done_time": 0
+    },
+    {
+        "task_id": 343,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 4,
+        "up_data_size": 4,
+        "duration_time": 1,
+        "done_time": 0
+    },
+    {
+        "task_id": 344,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 1,
+        "up_data_size": 16,
+        "duration_time": 3,
+        "done_time": 0
+    },
+    {
+        "task_id": 345,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 1,
+        "up_data_size": 7,
+        "duration_time": 3,
+        "done_time": 0
+    },
+    {
+        "task_id": 346,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 7,
+        "up_data_size": 13,
+        "duration_time": 1,
+        "done_time": 0
+    },
+    {
+        "task_id": 347,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 9,
+        "up_data_size": 8,
+        "duration_time": 4,
+        "done_time": 0
+    },
+    {
+        "task_id": 348,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 5,
+        "up_data_size": 7,
+        "duration_time": 2,
+        "done_time": 0
+    },
+    {
+        "task_id": 349,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 9,
+        "up_data_size": 8,
+        "duration_time": 3,
+        "done_time": 0
+    },
+    {
+        "task_id": 350,
+        "time": "2024-07-19T00:00:00Z",
+        "pos_id": 5,
+        "up_data_size": 16,
+        "duration_time": 2,
+        "done_time": 0
+    }
+]
