@@ -15,5 +15,5 @@ Path: /algo
 **sa_env.py:** initializes the environment, performs step according to time, calls reader function in step to read json, after some data processing (incoming actions may not connect,done tasks can not continue to increase done_time, incoming actions lead to each satellite k change).
 After the processing is completed, the state is concatenated with the last action recorded by Env to obtain (num_agents *(num_satellites+ 3+3*(num_satellites+4)))),done, etc.). Finally, the reward is calculated.
 #### 2. algorithm
-1. DRL-based Algorithm for Task-oriented Satellite Conditional Handover (D-CHO): **mappo.py:** Implement MAPPO, set episode, length, eval, etc., and update the network for eval each time.
+DRL-based Algorithm for Task-oriented Satellite Conditional Handover (D-CHO): **mappo.py:** Implement MAPPO, set episode, length, eval, etc., and update the network for eval each time.
 
