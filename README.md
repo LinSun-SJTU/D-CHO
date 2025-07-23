@@ -19,8 +19,3 @@ After the processing is completed, the state is concatenated with the last actio
 2. MADDPG-CHO: **maddpg.py**
 3. SCDP: **scdp.py**
 4. G-CHO: **g-cho.py**
-
-### Simulation result plot 
-Path: /plot_ecai
-1. **plot_result.py** presents Fig. 4.(a) ~ 4.(e) in the paper.
-2. **plot_350_3500.py** presents Fig. 4.(f) in the paper.
